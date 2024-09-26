@@ -1,7 +1,20 @@
 # Lab1Web
 # 1. membuat paragraf
+``
+<!-- Ini adalah paragraf pertama --> 
+<p>Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi 
+Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat 
+adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar 
+HTML.</p> 
+<!-- Ini adalah paragraf kedua --> 
+<p>Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling 
+mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan 
+tag dasar html.</p>
+
 ![Screenshot (207)](https://github.com/user-attachments/assets/f0d25448-d4b6-40b0-a443-e79727422009)
 ![Screenshot (208)](https://github.com/user-attachments/assets/26d80d4d-1fe0-4e42-b7ca-87c7ff0dafaa)
+
+
 # 2. Menambahkan Judul
 
 ![Screenshot (210)](https://github.com/user-attachments/assets/4a3060a7-ae76-45ee-a74b-e6f7d7b179e7)
