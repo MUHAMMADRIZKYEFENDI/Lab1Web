@@ -12,6 +12,9 @@ mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan
 tag dasar html.</p>
 ```
 ![Screenshot (207)](https://github.com/user-attachments/assets/f0d25448-d4b6-40b0-a443-e79727422009)
+```
+setelah dimodifikasi
+```
 ![Screenshot (208)](https://github.com/user-attachments/assets/26d80d4d-1fe0-4e42-b7ca-87c7ff0dafaa)
 
 
